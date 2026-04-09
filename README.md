@@ -1,5 +1,4 @@
-# Writing LangGraph
-
+长篇网文 AI 创作引擎
 > 长篇网文 AI 创作引擎 — 基于 LangGraph 多 Agent 架构，支持百万字级小说的分层记忆与迭代评审。
 
 ---
